@@ -2,13 +2,9 @@
 
 Software developer based in Italy with 5+ years of experience specialized in backend architectures and JavaScript ecosystem how React and Node.js.
 
-- [Goofls](https://goofls.placedv.com/)
-- [Placedv Pyramid](https://pyramid.placedv.com)
-- [Placedv Reporting](https://reporting.placedv.com)
+- [Placedv Note](https://note.placedv.com/)
 
-Founder of [Placedv](https://placedv.com)</br>
 Personal web site [sergiocasolari.com](https://sergiocasolari.com)</br>
-Prochilo & Casolari [prochilocasolari.org](https://prochilocasolari.org)
 
 ##
 <br/>
